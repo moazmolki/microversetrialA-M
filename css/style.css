@@ -1,3 +1,4 @@
 #img-div  {
 position: relative;
+  max-width: auto;
 }
