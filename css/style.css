@@ -1,4 +1,6 @@
 #img-div  {
+  display: block;
 position: relative;
   max-width: auto;
+  height =  auto;
 }
